@@ -1,0 +1,5 @@
+{{! base.mustache }}
+<html>
+  {{>head}}{{/head}}
+  {{>body}}{{/body}}
+</html>

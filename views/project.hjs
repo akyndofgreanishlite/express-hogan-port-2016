@@ -1,0 +1,5 @@
+{{ !project.mustache }}
+{{<base}}
+{{<head}}{{!title}}{{project.name}} – Jameson Tyler{{/title}}{{/head}}
+
+{{ <content }}asdflkjadsfl;kj{{ /content }}

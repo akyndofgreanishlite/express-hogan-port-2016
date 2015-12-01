@@ -1,0 +1,8 @@
+{{! index.mustache }}
+{{<base}}
+  {{$body}}
+    <span class="author">Jameson Tyler</span>
+    <h1>A product designer living in Brooklyn, NY.</h1>
+    <p>Currently working at Localytics remotely from Brooklyn, ny. He’s always looking for oppor­tunities to colla­borate on user experience, visual design, & branding. Publishing, data visual­ization, & type design are some areas of interest.</p>
+  {{/body}}
+{{/base}}
